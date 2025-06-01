@@ -1,0 +1,90 @@
+# Die drei Arten der Wärmeübertragung
+
+## 🔥 1. Wärmeleitung (Konduktion)
+
+### Mechanismus:
+Wärme wird durch Teilchenstöße übertragen, ohne dass sich die Teilchen 			selbst durch den Körper bewegen. Jedes Teilchen gibt Wärme an 						benachbarte Teilchen weiter, während es um seinen festen Platz schwingt.
+
+### Materietransport: 
+- ❌ Kein Materietransport
+
+### Richtung:
+- Immer von einem warmen Reservoir zu einem kalten Reservoir (nie 			umgekehrt).
+
+### Materialabhängigkeit:
+- Metalle leiten besonders gut (dank freier Elektronen)
+- Isolatoren wie Holz haben geringe Leitfähigkeit
+
+### Kenngröße:
+- Wärmeleitfähigkeit λ (Lambda) in Watt pro Meter mal Kelvin [W/(m·K)]
+
+### Beispiel:
+- Ein erhitzter Topfgriff wird heiß, obwohl nur die Herdplatte erhitzt 				wird.
+
+## 🌬️ 2. Konvektion (Wärmeströmung)
+
+### Mechanismus:
+-  Wärme wird durch strömende Fluide (Flüssigkeiten oder Gase) 						transportiert. Die Materie bewegt sich physikalisch und 							transportiert dabei Wärmeenergie.
+
+### Materietransport: 
+- ✅ Ja
+
+### Medium:
+- Erfordert ein Fluid (keine Festkörper!).
+
+### Richtung:
+- Kann durch Strömung auch von kalt nach warm erfolgen (z. B. durch Pumpen 		oder Lüfter).
+
+### Arten:
+- Natürliche Konvektion (Dichteunterschiede)
+- Erzwungene Konvektion (durch externe Kräfte)
+
+### Beispiel:
+- Ein Kachelofen erwärmt einen Raum: Warme Luft steigt auf, kalte sinkt ab 		→ kreisförmige Strömung.
+
+## ☀️ 3. Wärmestrahlung
+
+### Mechanismus:
+- Übertragung durch elektromagnetische Wellen (Infrarotstrahlung). 
+- Kein Teilchenkontakt nötig!
+	
+### Materietransport: 
+- ❌ Kein Materietransport
+
+### Strahlungsbilanz:
+- Jeder Stoff mit Temperatur > 0 K sendet Strahlung aus!
+
+- Erwärmung: Wenn mehr Strahlung absorbiert als abgegeben wird
+
+- Abkühlung: Wenn mehr Strahlung abgegeben als absorbiert wird
+
+### Universalität:
+- Funktioniert im Vakuum (z. B. Sonnenstrahlung zur Erde).
+
+### Beispiel:
+- Sonnenstrahlen erwärmen die Erdoberfläche, obwohl das Weltall kalt ist.
+
+# 🔄 Zusammenfassende Gegenüberstellung
+Eigenschaft	Wärmeleitung	Konvektion	Wärmestrahlung
+Materietransport	Nein	Ja	Nein
+Medium	Festkörper/Kontakt	Fluid (Flüssigkeit/Gas)	Keines (Vakuum möglich)
+Richtung	Nur warm → kalt	Auch kalt → warm möglich	Abhängig von Bilanz
+Geschwindigkeit	Materialabhängig	Strömungsabhängig	Lichtgeschwindigkeit
+💡 Wichtige Erkenntnisse
+
+## Gleichzeitiges Auftreten: 
+ - Alle drei Übertragungsformen können in physikalischen Prozessen parallel auftreten.
+
+## Alltagsrelevanz:
+
+### Wärmeleitung: 
+- Bestimmt, warum Metalllöffel heiß werden, Holzgriffe aber nicht
+
+### Konvektion:
+- Erklärt Luftzirkulation in Räumen oder Meeresströmungen
+
+### Wärmestrahlung: 
+- Macht Sonnenwärme trotz kalter Luft spürbar
+
+## Physikalische Einzigartigkeit: 
+- Nur Wärmestrahlung benötigt kein Medium und folgt den Gesetzen elektromagnetischer Wellen.
